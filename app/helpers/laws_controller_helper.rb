@@ -1,0 +1,2 @@
+module LawsControllerHelper
+end
